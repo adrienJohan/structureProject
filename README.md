@@ -1,0 +1,1 @@
+# il y a deux programmes concernant les structures. L'un des deux permet l'organisation des PC des etudiants, avec Pc_Management.c et struct_PC.h , et l'autre permet l'organisation des informations des etudiants, avec Student_Management.c et struct_Student.h.
