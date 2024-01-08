@@ -1,1 +1,3 @@
-# il y a deux programmes concernant les structures. L'un des deux permet l'organisation des PC des etudiants, avec Pc_Management.c et struct_PC.h , et l'autre permet l'organisation des informations des etudiants, avec Student_Management.c et struct_Student.h.
+#Hi everyone.
+I learned structure in C and this is a project I madde about it.
+There's two program, one will allow you to organize students' PC(Pc_management.c and struct_PC.h) , and the other will organize informations about students(Student_management.c and struct_Student.h
